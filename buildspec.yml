@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN: customerLoginSignup:sonartoken
-    HOST: customerLoginSignup:host
-    Organization: customerLoginSignup:organization
-    Project: customerLoginSignup:projectKey
+    LOGIN: hackathon22aug:sonartoken
+    HOST: hackathon22aug:host
+    Organization: hackathon22aug:organization
+    Project: hackathon22aug:projectKey
 
 phases:
   install:
